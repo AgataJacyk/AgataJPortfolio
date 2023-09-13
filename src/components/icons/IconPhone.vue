@@ -1,6 +1,6 @@
 <template>
     <social-button>
-    <a class="social" href=""><img class="social_media" src="/logo_whatsapp_telephone_handset_icon_143174.png"></a>
+    <a class="social" href="tel:+48661470335"><img class="social_media" src="/logo_whatsapp_telephone_handset_icon_143174.png"></a>
   </social-button>
     </template>
     <script>
